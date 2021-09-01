@@ -1,5 +1,3 @@
-package de.robinKrestel.main;
-
 @SuppressWarnings("unused")
 public class Profile
 {
